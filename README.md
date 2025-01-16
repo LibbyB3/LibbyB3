@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Libby!
+
+🔭 Data analyst with a master's in computer science from Louisiana State University - Shreveport<br/>
+🌱 Currently learning how to create dashboards on Tableau<br/> 
+⚡ Enjoy going to concerts in my free time
+
+
+[![Libby's GitHub stats](https://github-readme-stats.vercel.app/api?username=LibbyB3&show_icons=true&theme=onedark)](https://github.com/LibbyB3/github-readme-stats)
 
 <!--
 **LibbyB3/LibbyB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
